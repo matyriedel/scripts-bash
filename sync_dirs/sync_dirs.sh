@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Configuración SSH
-USER="usuario_remoto"
-HOST="host_remoto"
+USER=" "
+HOST=" "
 PORT=22
-PASSWORD="tu_contraseña_aquí"
+PASSWORD=" "
 
 # Lista de carpetas a sincronizar (en el servidor remoto)
 declare -a FOLDERS=(
